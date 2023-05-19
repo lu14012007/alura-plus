@@ -14,5 +14,23 @@
     background-image: url("Background.png");
     background-size: contain;
     background-repeat: no-repeat;
+<<<<<<< HEAD
     height: 100vh;
     }
+
+    .principal-botao{
+        background-color: var(--botao-azul);  
+        color: var(--branco-principal); 
+        border-radius: 5px;
+        padding: 16px;
+     }
+     .principal-botao-2{
+        background-color: transparent);  
+        color: var(--branco-principal); 
+        border-radius: 5px;
+        padding: 16px;
+     }
+=======
+    height: 100vh;
+    }
+>>>>>>> 3768813d6295b8205ffc9729dec0867dcf2b7fe
