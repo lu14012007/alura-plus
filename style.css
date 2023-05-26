@@ -30,6 +30,7 @@ body {
     padding: 16px;
     text-decoration: none;
     display: block;
+    margin-bottom: 16px;
 }
 .principal-botao-2{
     background-color: transparent;
@@ -39,6 +40,7 @@ body {
     padding: 16px;
     text-decoration: none;
     display: block;
+    margin-bottom: 16px;
 }
 .principal-titulo{
     font-size: 28px;
@@ -47,6 +49,10 @@ body {
 .principal-aviso{
 font-size: 14px;
 color: var(--cinza-secundario);
-
-
+}
+.principal-imagem{
+    margin: 16px 0 32px 0;
+}
+.principal-caixa{
+    margin: 0 96px;
 }
